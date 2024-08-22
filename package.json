@@ -1,0 +1,24 @@
+{
+  "name": "2notion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@markdoc/markdoc": "^0.4.0",
+    "@notionhq/client": "^2.2.15",
+    "@tryfabric/martian": "^1.2.4",
+    "gray-matter": "^4.0.3",
+    "log4j": "^1.0.0",
+    "log4js": "^6.9.1",
+    "markdown2notion": "^1.2.1"
+  },
+  "devDependencies": {
+    "axios": "^1.7.5"
+  }
+}
