@@ -15,6 +15,9 @@
 
 # bilibili2notion
 
+## bilibili api 
+- https://github.com/SocialSisterYi/bilibili-API-collect
+
 ## Start
 
 - npm i
